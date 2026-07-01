@@ -165,9 +165,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/yourusername/FmSV)
-- [Report Bug](https://github.com/yourusername/FmSV/issues)
-- [Request Feature](https://github.com/yourusername/FmSV/issues)
+- [GitHub Repository](https://github.com/HosseinZAW/FmSV)
+- [Report Bug](https://github.com/HosseinZAW/FmSV/issues)
+- [Request Feature](https://github.com/HosseinZAW/FmSV/issues)
 
 ---
 
